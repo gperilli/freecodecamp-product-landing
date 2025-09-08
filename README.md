@@ -3,7 +3,7 @@
 |   |   |
 |---|---|
 | <img src="assets/images/productlanding-template.png" width="80%" />  | <img src="assets/images/productlanding-demo.png" width="80%" />   |
-| [template](https://gperilli.github.io/templates-productlanding/) | [demo](https://gperilli.github.io/templates-productlanding/demo) |
+| [template](https://gperilli.github.io/freecodecamp-product-landing/) | [demo](https://gperilli.github.io/freecodecamp-product-landing/demo) |
 
 
 This is a HTML product / service landing page template and demo. 
